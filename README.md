@@ -9,7 +9,7 @@ Creamos la máquina virtual (VM2-vm) localizada en la región preferida y la mon
 ![Create VM](img/img01.png)
 
 
-(Podemos generar una plantilla de creación de la máquina virtual para próximas ocasiones.)
+(Podemos generar una plantilla de creación de la máquina virtual para próximas ocasiones, que se adjunta al repositorio a modo de ejemplo.)
   
 Desplegamos la VM mediante la descarga del archivo RDP y las credenciales de acceso recién creadas.
 
